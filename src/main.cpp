@@ -115,7 +115,7 @@ unsigned long sixnineStartTime = 0;
 
 // Calibration Button
 const unsigned long debounceDelay = 50;        // Button debounce delay 50 ms
-const unsigned long decisionWindow = 200;      // Short press threshold 200 ms
+const unsigned long decisionWindow = 799;      // Short press threshold 799 ms
 const unsigned long longPressDuration = 800;   // Long press threshold 800 ms
 const unsigned long powerOffDuration = 3000;   // Power off threshold 3000 ms
 const unsigned long powerOnDuration = 1000;    // Power on threshold 1000 ms
