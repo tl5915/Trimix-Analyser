@@ -1,7 +1,7 @@
 # Trimix Analyser
 Trimix analyser for scuba diving
 
-## Material:
+## Material
 ### Housing
 - Electronic junction box 158x90x60mm
 - 15 mm ID, 18 mm OD PVC pipe (for sensor chamber, O2 mount to the end, He and CO on two sides, gas out on the other end)
